@@ -18,8 +18,6 @@ let package = Package(
 			exclude: [
 				"Info.plist",
 				"copy-helper.sh"
-			],
-			resources: [
 			]
 		)
 	]
